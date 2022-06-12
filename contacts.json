@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Jnr",
+      "lastName": "Kambeva",
+      "email": "jnr@random.com",
+      "favoriteColor": "Blue",
+      "birthday": "19/02/15"
+    },
+    "contact2": {
+      "firstName": "Alma",
+      "lastName": "Kambeva",
+      "email": "al@random.com",
+      "favoriteColor": "Green",
+      "birthday": "28/03/18"
+    }, 
+    "contact3": {
+      "firstName": "Mil",
+      "lastName": "Vam",
+      "email": "mil@random.com",
+      "favoriteColor": "Grey",
+      "birthday": "02/01/85"
+    }
+  }
