@@ -13,7 +13,7 @@ content-type: application/json
 
 {
     "firstName": "Jnr",
-    "lastName": "Kambeva",
+    "lastName": "Kam",
     "email": "jnr@random.com",
     "favoriteColor": "Blue",
     "birthday": "19/02/15"
@@ -51,7 +51,7 @@ content-type: application/json
 
 {
     "firstName": "Jnr",
-    "lastName": "Kambeva",
+    "lastName": "Kam",
     "email": "jnr@random.com",
     "favoriteColor": "Blue",
     "birthday": "19/02/15"
