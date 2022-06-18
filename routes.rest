@@ -4,7 +4,7 @@ GET http://localhost:8080/contacts
 
 
 ### Get contact by id 
-GET http://localhost:8080/contacts/62aacb72eac6aebc4e321798
+GET http://localhost:8080/contacts/62aab4e5eac6aebc4e321794
 
 
 ### Create contact
@@ -12,11 +12,11 @@ POST http://localhost:8080/contacts HTTP/1.1
 content-type: application/json
 
 {
-    "firstName": "Mil",
+    "firstName": "Al",
     "lastName": "Kam",
-    "email": "mil@random.com",
+    "email": "al@random.com",
     "favoriteColor": "Green",
-    "birthday": "02/01/85"
+    "birthday": "28/03/18"
 }
 
 
@@ -25,8 +25,8 @@ PUT http://localhost:8080/contacts/62a618bcf84d42474675422a HTTP/1.1
 content-type: application/json
 
 {
-    "firstName": "Alma",
-    "lastName": "Kambeva",
+    "firstName": "Al",
+    "lastName": "Kam",
     "email": "al@random.com",
     "favoriteColor": "Green",
     "birthday": "28/03/18"
@@ -34,7 +34,7 @@ content-type: application/json
 
 
 ### DELETE contact
-DELETE http://localhost:8080/contacts/62a618bcf84d42474675422b HTTP/1.1
+DELETE http://localhost:8080/contacts/62aacacceac6aebc4e321797 HTTP/1.1
 
 
 // PRODUCTION Deploy
