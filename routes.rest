@@ -40,13 +40,13 @@ DELETE http://localhost:8080/contacts/62aacacceac6aebc4e321797 HTTP/1.1
 // PRODUCTION Deploy
 
 ### Get all contacts
-GET https://cse341akamjnr.herokuapp.com/contacts
+GET https://ak-personal-portfolio-project.herokuapp.com/contacts
 
 ### Get contact by id
-GET https://cse341akamjnr.herokuapp.com/contacts/62a618bcf84d424746754229
+GET https://ak-personal-portfolio-project.herokuapp.com/contacts/62a618bcf84d424746754229
 
 ### Create contact
-POST https://cse341akamjnr.herokuapp.com/contacts HTTP/1.1
+POST https://ak-personal-portfolio-project.herokuapp.com/contacts HTTP/1.1
 content-type: application/json
 
 {
@@ -58,7 +58,7 @@ content-type: application/json
 }
 
 ### PUT contact
-PUT https://cse341akamjnr.herokuapp.com/contacts/62a618bcf84d42474675422a HTTP/1.1
+PUT https://ak-personal-portfolio-project.herokuapp.com/contacts/62a618bcf84d42474675422a HTTP/1.1
 content-type: application/json
 
 {
@@ -70,4 +70,4 @@ content-type: application/json
 }
 
 ### DELETE contact
-DELETE https://cse341akamjnr.herokuapp.com/contacts/62a618bcf84d42474675422a HTTP/1.1
+DELETE https://ak-personal-portfolio-project.herokuapp.com/contacts/62a618bcf84d42474675422a HTTP/1.1

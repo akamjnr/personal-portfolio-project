@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "My API",
-    "description": "Contacts Project API",
+    "title": "Personal Portfolio API",
+    "description": "Personal Portfolio Project API",
     "version": "1.0.0"
   },
-  "host": "cse341akamjnr.herokuapp.com",
+  "host": "ak-personal-portfolio-project.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "https"

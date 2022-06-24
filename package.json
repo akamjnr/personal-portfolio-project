@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akamjnr/CSE341.git"
+    "url": "git+https://github.com/akamjnr/personal-portfolio-project.git"
   },
   "author": "Anyway Kambeva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akamjnr/CSE341/issues"
+    "url": "https://github.com/akamjnr/CSE341/personal-portfolio-project/issues"
   },
-  "homepage": "https://github.com/akamjnr/CSE341#readme",
+  "homepage": "https://github.com/akamjnr/CSE341/personal-portfolio-project#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
