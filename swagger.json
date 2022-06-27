@@ -11,14 +11,14 @@
     "https"
   ],
   "paths": {
-    "/api-docs": {
+    "user": {
       "get": {
         "description": "",
         "parameters": [],
         "responses": {}
       }
     },
-    "/contacts/": {
+    "/users/": {
       "get": {
         "description": "",
         "produces": [
@@ -49,10 +49,13 @@
                 "email": {
                   "example": "any"
                 },
-                "favoriteColor": {
+                "phoneNumber": {
                   "example": "any"
                 },
-                "birthday": {
+                "education": {
+                  "example": "any"
+                },
+                "skills": {
                   "example": "any"
                 }
               }
@@ -69,7 +72,7 @@
         }
       }
     },
-    "/contacts/{id}": {
+    "/users/{id}": {
       "get": {
         "description": "",
         "produces": [
@@ -113,10 +116,13 @@
                 "email": {
                   "example": "any"
                 },
-                "favoriteColor": {
+                "phoneNumber": {
                   "example": "any"
                 },
-                "birthday": {
+                "education": {
+                  "example": "any"
+                },
+                "skills": {
                   "example": "any"
                 }
               }
